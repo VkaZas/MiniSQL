@@ -1,0 +1,4 @@
+execfile pressure_test_table.sql;
+execfile small.sql;
+execfile pressure_test.sql;
+quit;
